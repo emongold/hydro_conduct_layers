@@ -3,7 +3,7 @@ Python code to run a hydraulic conductivity layer model from CPT and borehole da
 
 
 This repository contains the notebooks and scripts used to generate the hydraulic conductivity layer model from CPT data used to generate inputs for MODFLOW. The contents relate to Chapter 2 of Emily Mongold's PhD thesis titled "Regional models for coastal climate risk assessment: Subsurface, multi-hazard, and risk reduction perspectives." at Stanford University. 
-
+[![DOI](https://zenodo.org/badge/979568262.svg)](https://doi.org/10.5281/zenodo.15360390)
 
 This repository has not been extensively cleaned, and contains additional notebooks and scripts to creating figures that appear in the thesis. The key notebooks to re-create this work are described here:
 
