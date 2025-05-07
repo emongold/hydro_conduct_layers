@@ -1,0 +1,1 @@
+the alameda_250307b_*vertical datum*_nn.tif files are the filled (with nearest neighbors, the "nn" in the name) NOAA VDATUM rasters used for this round of modeling. Sea level is set in the model using this datum plus the amount of sea level rise in the scenario.
